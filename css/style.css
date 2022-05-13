@@ -2292,7 +2292,7 @@ body::-webkit-scrollbar{
 }
 
 body::-webkit-scrollbar-thumb{
-  background: #f11717;
+  background:linear-gradient(#f72b00, #0af2fe);
 border-radius: 5px;
 
 }
